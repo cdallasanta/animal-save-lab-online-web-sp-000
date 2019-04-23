@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 
 @media (min-width: 1196) {
-  img {
+  #bear {
     transform: rotate(45deg);
     position: absolute;
     left:800px;
