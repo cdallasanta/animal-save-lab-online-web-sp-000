@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (min-width: 1196){
+@media (max-width: 1196){
   img {
     position: absolute;
     left:800px;
