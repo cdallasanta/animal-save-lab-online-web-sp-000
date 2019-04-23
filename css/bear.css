@@ -13,7 +13,7 @@ html {
 @media (min-width: 1196) {
   #bear {
     transform: rotate(45deg);
-    position: absolute;
+    right:auto;
     left:800px;
   }
 }
