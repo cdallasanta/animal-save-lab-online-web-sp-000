@@ -10,8 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media (max-width: 1196){
+@media (min-width: 1196) {
   img {
+    background: blue;
     position: absolute;
     left:800px;
   }
