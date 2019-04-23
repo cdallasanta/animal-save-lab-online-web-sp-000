@@ -1,16 +1,16 @@
 html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
-/*
+
 #bear {
   position: absolute;
   top: 100px;
   right: 0;
 }
-*/
+
 /* Write your solution here */
 
-@media (min-width: 1196) {
+@media (min-width: 1196px) {
   #bear {
     transform: rotate(45deg);
     right:auto;
