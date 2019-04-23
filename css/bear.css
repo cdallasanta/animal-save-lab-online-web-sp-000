@@ -12,7 +12,7 @@ html {
 
 @media (min-width: 1196) {
   img {
-    background: blue;
+    transform: rotate(45deg);
     position: absolute;
     left:800px;
   }
